@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 <p><em>Passionate and self-driven Software Developer, constantly seeking new challenges and opportunities to grow. Enthusiastic about collaborating with experienced professionals to expand my skills and contribute to impactful projects. Dedicated to continuous learning and staying at the forefront of technology trends to create innovative solutions.</em></p>
 
-[<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;">](https://www.linkedin.com/raj21) **Let's connect**
+[<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;">](linkedin.com/in/rajs21) **Let's connect**
 
 
 ### A little more about me...  
